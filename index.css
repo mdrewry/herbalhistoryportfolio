@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  width: 100vw;
+  background-color: #fcf5ef;
+  overflow-x: hidden;
+}
+h1 {
+  font-family: "Dela Gothic One", cursive;
+  font-size: 55;
+}
+h2 {
+  font-family: "Dela Gothic One", cursive;
+  font-size: 40;
+}
+
+.grow {
+  flex-grow: 1;
+}
+.navbar-text {
+  color: #13346a;
+}
+.darksectionheader-text {
+  color: #fcf5ef;
+}
+
+.dark-section {
+  background-color: #c69a9a;
+}
